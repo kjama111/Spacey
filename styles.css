@@ -1,0 +1,45 @@
+body {
+  background-image: url(https://i.pinimg.com/originals/a7/8e/d9/a78ed977b64613cc832deb3ad18e40b8.jpg);
+}
+
+h1 {
+  color: aliceblue;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 80px;
+}
+nav {
+  display: flex;
+  gap: 2.5rem;
+  text-transform: capitalize;
+  text-decoration: none;
+  font-weight: 700;
+  align-items: center;
+}
+
+.littlebox {
+  position: absolute;
+  border: solid;
+  bottom: 200px;
+  left: 3rem;
+  color: aliceblue;
+  display: flexbox;
+  flex-direction: coloumn;
+  gap: 0.9rem;
+}
+
+.big {
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.firstGuardian {
+  background-position: url(https://ik.imagekit.io/storybird/images/a426575a-900e-4b8c-ac12-e0d1acd62944/19_979065515.png);
+}
+
+.secondGuardian {
+  background-image: url(https://ik.imagekit.io/storybird/images/a426575a-900e-4b8c-ac12-e0d1acd62944/15_476075948.png);
+}
+
+.thirdGuardian {
+  background-image: url(https://ik.imagekit.io/storybird/images/a426575a-900e-4b8c-ac12-e0d1acd62944/10_347186511.png);
+}
